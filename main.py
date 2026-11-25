@@ -7,6 +7,8 @@ a machine talking about its own work (optimization, system speed), it lands
 in one read with a sharp turn (deleted your file -> never run faster), and
 it dodges the obvious angles (out of tokens, hallucination) for something
 sharper: the agent did exactly what it was asked to do, catastrophically.
+It also reads as a status report, not a joke — the machine genuinely
+believes the system is faster now, which is the whole punchline.
 """
 
 import os
